@@ -12,4 +12,5 @@ And it creates a table with pagination for an overview of all relevant data:
 ![grafik](https://github.com/fuellner/climate-dashboard/assets/68563551/d0ed11a4-ddbc-4512-81d4-46956a06ba66)
 
 At the end it lists the data sources as a hyperlink:
+
 ![grafik](https://github.com/fuellner/climate-dashboard/assets/68563551/e604d35d-fde4-4fce-84bb-7f151c05a2d1)
