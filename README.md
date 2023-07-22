@@ -1,4 +1,4 @@
-# climate dashboard example written in python with plotly dash
+# Climate dashboard example written in python with plotly dash
 
 This repository contains a small plotly dash dashboard app for climate relevant data.
 
